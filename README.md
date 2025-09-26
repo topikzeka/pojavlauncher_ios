@@ -115,3 +115,6 @@ This project is listed under the MacStadium Open Source Program, which allows al
 ![](https://user-images.githubusercontent.com/55281754/183129754-c3736bb9-d528-4af7-9351-a12b3be7549e.png)
 
 <!-- sillysock was here -->
+
+/install
+
